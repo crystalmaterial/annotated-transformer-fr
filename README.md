@@ -1,9 +1,6 @@
 # annotated-transformer-fr
 The anotated transformer translated in french (fr to en)
 
-
-The annotated transformer
-
 Cette traduction est
 
 - Basée sur une traduction "The annotated transformer" de Austin Huang et al. : http://nlp.seas.harvard.edu/annotated-transformer/
