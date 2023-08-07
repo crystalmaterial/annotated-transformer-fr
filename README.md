@@ -16,5 +16,3 @@ Attention is All You Need
 v2022: Austin Huang, Suraj Subramanian, Jonathan Sum, Khalid Almubarak, and Stella Biderman.
 
 [Original](https://nlp.seas.harvard.edu/2018/04/03/attention.html): Sasha Rush
-
-code available here
