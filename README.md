@@ -5,7 +5,7 @@ Cette traduction est
 
 - Basée sur une traduction "The annotated transformer" de Austin Huang et al. : http://nlp.seas.harvard.edu/annotated-transformer/
 
-- Basée sur "The annotated transformer" de Sasha Alexander Rush et al. : https://nlp.seas.harvard.edu/2018/04/03/attention.html
+- Basée sur "The annotated transformer" de Alexander Rush et al. : https://nlp.seas.harvard.edu/2018/04/03/attention.html
 
 - Basée sur "Attention is all you Need" de Hashish Vaswani et al. : https://arxiv.org/abs/1706.03762
 
